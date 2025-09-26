@@ -1,0 +1,14 @@
+Exercici 1: 2/2
+Exercici 2: 1.5/1.5
+Exercici 3: 1.5/1.5
+Exercici 4: 3.25/4
+Volia que primera lletra i útlima lletra es definissin a partir de la variable nom
+  primera_lletra = nom[0]
+  ultima_lletra = nom[1]
+
+  També volia que mostressiu la variable llargada al text.
+  
+Jupyter: 1/1
+Github: 1/1
+
+Nota final: 10.25/11 -->9.32
